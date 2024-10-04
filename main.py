@@ -17,7 +17,7 @@ MDScreen:
 
     MDIconButton:
         on_release: app.open_menu(self)
-        pos_hint: {"top": .98}
+        pos_hint: {"top": .91}
         x: dp(12)
         icon: "menu"
 
